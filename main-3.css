@@ -1,0 +1,26 @@
+.container{
+    width: 1800px;
+}
+.row{
+    width: 1800px;
+}
+.carousel-control-prev{
+    border: 1px solid black;
+    border-radius: 32px;
+    background: #0e0e0e;
+    width: 35px;
+    height: 35px;
+    color: black;
+    margin-top: 310px;
+    margin-left: 1500px;
+}
+.carousel-control-next{
+    border: 1px solid black;
+    border-radius: 32px;
+    background: #020202;
+    width: 35px;
+    height: 35px;
+    color: black;
+    margin-top: 310px;
+    margin-right: 180px;
+}
